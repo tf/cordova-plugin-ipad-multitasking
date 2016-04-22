@@ -11,9 +11,6 @@
     <platform name="ios">
         <config-file target="*-Info.plist" parent="UISupportedInterfaceOrientations">
             <array>
-                <string>UIInterfaceOrientationPortrait</string>
-                <string>UIInterfaceOrientationLandscapeLeft</string>
-                <string>UIInterfaceOrientationLandscapeRight</string>
             </array>
         </config-file>
         <config-file target="*-Info.plist" parent="UISupportedInterfaceOrientations~ipad">
